@@ -1,0 +1,24 @@
+h1{
+      text-align: center;
+      font-size: 80px;
+      text-decoration: underline;
+      color: #b4721c;
+
+    
+    }
+
+p{
+    text-align: center;
+    font-size: medium;
+    
+}
+
+body{
+    background-color: white;
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid #520b0b;
+    border-collapse: collapse;
+  }
+
